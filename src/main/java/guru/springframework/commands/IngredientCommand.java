@@ -9,8 +9,8 @@ import java.math.BigDecimal;
 /**
  * Created by jt on 6/21/17.
  */
-@Getter
 @Setter
+@Getter
 @NoArgsConstructor
 public class IngredientCommand {
     private String id;
